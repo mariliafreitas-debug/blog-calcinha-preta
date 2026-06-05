@@ -9,7 +9,8 @@ header{
 }
 
 h2{
-    color:red 
+    color:red;
+    font-size: 3em; 
 }
 
 h1{
@@ -19,7 +20,7 @@ h1{
 }
 
 p{
-    font-size:1em ;
+    font-size:2em ;
     
 }
 
@@ -39,4 +40,17 @@ div{
 img{
     margin: 10px;
     margin-left: 150px;
+}
+
+footer{
+    background-color: red;
+    text-align: center;
+}
+
+footer p{
+    color: aliceblue;
+}
+
+footer a{
+    color: aliceblue;
 }
